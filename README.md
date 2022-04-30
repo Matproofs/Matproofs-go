@@ -1,2 +1,2 @@
-# DualVC-go
-Implement DualVC in golang.
+# MC-go
+Implement our matrix commitment scheme in golang.
