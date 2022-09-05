@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	repeatTime := 10
+	repeatTime := 3
 
 	for i := 0; i < repeatTime; i++ {
 		fmt.Println("====================================================")
