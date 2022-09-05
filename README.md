@@ -1,2 +1,2 @@
-# MC-go
-Implement our matrix commitment scheme in golang.
+# Matproofs-go
+Implement Matproofs in golang.
